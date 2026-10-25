@@ -59,3 +59,4 @@ python bot.py
 When you see `Welcome To UR Command - X` in your terminal, the bot is online! It will automatically create a local `ur_x_data.db` file to store your tasks.
 
 Go to your Discord server and type `/ur-x` followed by your task details to test it out!
+Watch an Demo Here: https://streamable.com/epok17
